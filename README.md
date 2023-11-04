@@ -30,3 +30,5 @@ Vous pouvez installer discord.py en utilisant pip : pip install discord.py
 # License 
 
 [RachidoRoyaume](https://github.com/RachidoRoyaume)
+![image](https://github.com/RachidoRoyaume/Python-Bot-Template/assets/149799041/7c9450e1-8ab5-4030-869e-384c547dea2e)
+
